@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Hero Character\HeroCombat.cs">
+    <Files>
+      <File FileName="Assets\Hero Character\HeroController.cs" Line="234" Column="4" />
+      <File FileName="Assets\Hero Character\HeroCombat.cs" Line="209" Column="3" />
+      <File FileName="Assets\Hero Character\HeroFollowCamera.cs" Line="162" Column="42" />
+      <File FileName="Assets\Enemy Stuff\EnemyBehaviour.cs" Line="154" Column="45" />
+      <File FileName="Assets\Enemy Stuff\EnemySpawner.cs" Line="72" Column="4" />
+      <File FileName="Assets\Enemy Stuff\Behavior\CivilianBehavior.cs" Line="36" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
